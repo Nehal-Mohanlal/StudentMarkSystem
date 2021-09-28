@@ -1,0 +1,10 @@
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\bin\Debug\StudentMarksSytem.exe.config
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\bin\Debug\StudentMarksSytem.exe
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\bin\Debug\StudentMarksSytem.pdb
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.csproj.AssemblyReference.cache
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.Form1.resources
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.Properties.Resources.resources
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.csproj.GenerateResource.cache
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.csproj.CoreCompileInputs.cache
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.exe
+C:\Users\nehal\source\repos\StudentMarksSytem\StudentMarksSytem\obj\Debug\StudentMarksSytem.pdb
